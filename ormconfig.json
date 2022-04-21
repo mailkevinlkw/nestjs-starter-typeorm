@@ -1,0 +1,10 @@
+{
+    "type": "mysql",
+    "host": "167.71.200.195",
+    "port": 3306,
+    "username": "reactpress",
+    "password": "Reactpress@123!",
+    "database": "yata",
+    "entities": ["dist/entities/*{.ts,.js}","dist/entities/**/*{.ts,.js}"],
+    "synchronize": true
+  }
